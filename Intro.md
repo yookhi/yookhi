@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yookhi (Eugene)
+- 👀 I’m interested in data analytics and data science.
+- 🌱 I’m currently learning Computer Information Systems with an emphasis in Business Intelligence at Cal Poly Pomona.
+- 📫 You can reach me at: eugeneluu360@gmail.com
